@@ -1,3 +1,22 @@
+# Personal Academic Page
+
+Name: Hao Dong / donghao  
+Email: 202535665@mail.sdu.edu.cn   
+
+Research interests: Clinical NLP, ICD coding, biomedical text mining, machine learning.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # LCA-ICD: Label-Card Augmented ICD Coding
 
 > **Authoritative label grounding for long-tail ICD-9 automatic coding**
